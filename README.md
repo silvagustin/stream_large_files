@@ -1,6 +1,14 @@
 # StreamLargeFiles
 
-**TODO: Add description**
+## Original post: https://www.poeticoding.com/elixir-streams-to-process-large-http-responses-on-the-fly/
+
+```
+$ mix deps.get
+
+$ iex -S mix
+
+iex(1)> StreamLargeFiles.main()
+```
 
 ## Installation
 
@@ -18,4 +26,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/stream_large_files](https://hexdocs.pm/stream_large_files).
-
